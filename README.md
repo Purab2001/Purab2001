@@ -23,7 +23,9 @@ Here are some of the projects I've worked on:
 3. **[English Janala](https://github.com/Purab2001/English_Janala)**  
    A website for learning English, built with **HTML** , **CSS** and **Javascript**.  
    - [Live Demo](https://purab2001.github.io/English_Janala)  
-   - [Figma Design](https://www.figma.com/design/av5VTWIEzejyv5XoDDpPtA/English-Janala?node-id=0-1&p=f&t=eG2Rj1XVXXqFJmIK-0)
+4. **[Nature's Platter](https://github.com/Purab2001/Nature-s-Platter)**  
+   A website for a nature-inspired restaurant, built with **HTML** and **Tailwind CSS**.  
+   - [Live Demo](https://purab2001.github.io/Nature-s-Platter)  
 
 ---
 
