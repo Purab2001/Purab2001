@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purab2001&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Purab2001&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Purab2001&theme=radical)
 
 ---
 
