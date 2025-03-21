@@ -20,6 +20,10 @@
 Here are some of the projects I've worked on:
 1. **[Legal Solutions](https://github.com/Purab2001/Legal-Solutions)** - A responsive website for legal services. [Live Demo](https://purab2001.github.io/Legal-Solutions)
 2. **[Bangladesh 2.0](https://github.com/Purab2001/Bangladesh-2.0)** - A landing page showcasing Bangladesh. [Live Demo](https://purab2001.github.io/Bangladesh-2.0)
+3. **[English Janala](https://github.com/Purab2001/English_Janala)**  
+   A website for learning English, built with **HTML** , **CSS** and **Javascript**.  
+   - [Live Demo](https://purab2001.github.io/English_Janala)  
+   - [Figma Design](https://www.figma.com/design/av5VTWIEzejyv5XoDDpPtA/English-Janala?node-id=0-1&p=f&t=eG2Rj1XVXXqFJmIK-0)
 
 ---
 
