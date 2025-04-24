@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills
 
-- **Frontend Development**: HTML, CSS, Tailwind CSS
+- **Frontend Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS
 - **Tools**: VS Code, Git, GitHub
 - **Design**: Responsive Web Design, UI/UX Basics
 
@@ -21,7 +21,15 @@
 
 Here are some of the projects I've worked on:
 
-1. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)**  
+1. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
+   A modern doctor appointment management system built with React and Tailwind CSS.
+
+   - Built with React, Tailwind CSS, and DaisyUI
+   - Features doctor profiles, appointment scheduling, and analytics dashboard
+   - Responsive design with modern UI
+   - [Live Demo](https://doc-flow.netlify.app/)
+
+2. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)**  
    A modern auction house application built with React, featuring real-time bidding and favorites management.
 
    - Built with React, Tailwind CSS, and React Icons
@@ -29,32 +37,12 @@ Here are some of the projects I've worked on:
    - Responsive design with modern UI
    - [Live Demo](https://a-g-purab.netlify.app/)
 
-2. **[Legal Solutions](https://github.com/Purab2001/Legal-Solutions)**  
-   A responsive website for legal services, built with modern web technologies.
-
-   - Built with HTML, CSS, and JavaScript
-   - Responsive design for all devices
-   - [Live Demo](https://purab2001.github.io/Legal-Solutions)
-
-3. **[Bangladesh 2.0](https://github.com/Purab2001/Bangladesh-2.0)**  
-   A landing page showcasing Bangladesh's culture and heritage.
-
-   - Built with HTML and Tailwind CSS
-   - Modern and interactive design
-   - [Live Demo](https://purab2001.github.io/Bangladesh-2.0)
-
-4. **[English Janala](https://github.com/Purab2001/English_Janala)**  
+3. **[English Janala](https://github.com/Purab2001/English_Janala)**  
    A website for learning English, featuring interactive lessons and resources.
 
    - Built with HTML, CSS, and JavaScript
    - Interactive learning features
    - [Live Demo](https://purab2001.github.io/English_Janala)
-
-5. **[Nature's Platter](https://github.com/Purab2001/Nature-s-Platter)**  
-   A website for a nature-inspired restaurant, showcasing organic dining experience.
-   - Built with HTML and Tailwind CSS
-   - Elegant and nature-themed design
-   - [Live Demo](https://purab2001.github.io/Nature-s-Platter)
 
 ---
 
