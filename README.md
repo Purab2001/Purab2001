@@ -1,11 +1,11 @@
 # Hi, I'm Abir Shahadat Purab 👋
 
-### Frontend Developer | HTML, CSS, Tailwind CSS Enthusiast
+### Frontend Developer | React.js & Tailwind CSS Specialist
 
-- 🌱 I'm currently learning **JavaScript** and expanding my frontend skills.
-- 💬 Ask me about **HTML**, **CSS**, or **Tailwind CSS**.
+- 🌱 I'm currently building modern web applications with **React.js** and **Tailwind CSS**
+- 💬 Ask me about **React.js**, **JavaScript**, or **Tailwind CSS**
 - 📫 How to reach me: [a.s.purab0@gmail.com](mailto:a.s.purab0@gmail.com)
-- ⚡ Fun fact: I love building clean and responsive user interfaces!
+- ⚡ Fun fact: I love building clean, responsive, and user-friendly interfaces!
 
 ---
 
