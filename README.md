@@ -1,47 +1,50 @@
 # Hi, I'm Abir Shahadat Purab 👋
 
-### Frontend Developer | React.js & Tailwind CSS Specialist
+### MERN Stack Developer | Building Scalable Web Applications 🚀
 
-- 🌱 I'm currently building modern web applications with **React.js** and **Tailwind CSS**
-- 💬 Ask me about **React.js**, **JavaScript**, or **Tailwind CSS**
+- 🌱 I'm currently crafting full-stack web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **Express.js**, or **Tailwind CSS**
 - 📫 How to reach me: [a.s.purab0@gmail.com](mailto:a.s.purab0@gmail.com)
-- ⚡ Fun fact: I love building clean, responsive, and user-friendly interfaces!
+- ⚡ Fun fact: I love building seamless, responsive, and user-centric web apps from scratch!
 
 ---
 
 ## 🛠️ Skills
 
 - **Frontend Development**: HTML, CSS, JavaScript, React.js, Tailwind CSS
-- **Tools**: VS Code, Git, GitHub
+- **Backend Development**: Node.js, Express.js, MongoDB
+- **Database & Authentication**: MongoDB, Firebase
+- **Tools**: VS Code, Git, GitHub, Postman
 - **Design**: Responsive Web Design, UI/UX Basics
+- **Other**: RESTful APIs, CRUD Operations, Real-Time Features
 
 ---
 
 ## 🚀 Projects
 
-Here are some of the projects I've worked on:
+Here are some of the projects showcasing my MERN stack and frontend skills:
 
 1. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
    A modern doctor appointment management system built with React and Tailwind CSS.
 
-   - Built with React, Tailwind CSS, and DaisyUI
+   - Built with **React**, **Tailwind CSS**, and **DaisyUI**
    - Features doctor profiles, appointment scheduling, and analytics dashboard
    - Responsive design with modern UI
    - [Live Demo](https://doc-flow.netlify.app/)
 
-2. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)**  
-   A modern auction house application built with React, featuring real-time bidding and favorites management.
+2. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)** 💸  
+   A full-stack auction house application with real-time bidding and user management.
 
-   - Built with React, Tailwind CSS, and React Icons
-   - Features real-time bidding and favorites management
+   - Built with **React**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**
+   - Features real-time bidding, user authentication, and favorites management
    - Responsive design with modern UI
    - [Live Demo](https://a-g-purab.netlify.app/)
 
-3. **[English Janala](https://github.com/Purab2001/English_Janala)**  
+3. **[English Janala](https://github.com/Purab2001/English_Janala)** 📚  
    A website for learning English, featuring interactive lessons and resources.
 
-   - Built with HTML, CSS, and JavaScript
-   - Interactive learning features
+   - Built with **HTML**, **CSS**, **JavaScript**, and enhanced with **Firebase** for user data
+   - Interactive learning features and responsive design
    - [Live Demo](https://purab2001.github.io/English_Janala)
 
 ---
