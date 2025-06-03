@@ -24,7 +24,15 @@
 
 Here are some of the projects showcasing my MERN stack and frontend skills:
 
-1. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
+1. **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨  
+   A platform to discover, share, and manage hobbies with a vibrant community.
+
+   - Built with MERN stack and modern UI libraries
+   - Features user profiles, hobby tracking, and interactive dashboards
+   - Responsive across devices
+   - [Live Demo](https://hobbyhub-19bff.web.app/)
+
+2. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
    A modern doctor appointment management system built with React and Tailwind CSS.
 
    - Built with **React**, **Tailwind CSS**, and **DaisyUI**
@@ -32,7 +40,7 @@ Here are some of the projects showcasing my MERN stack and frontend skills:
    - Responsive design with modern UI
    - [Live Demo](https://doc-flow.netlify.app/)
 
-2. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)** 💸  
+3. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)** 💸  
    A full-stack auction house application with real-time bidding and user management.
 
    - Built with **React**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**
@@ -40,13 +48,13 @@ Here are some of the projects showcasing my MERN stack and frontend skills:
    - Responsive design with modern UI
    - [Live Demo](https://a-g-purab.netlify.app/)
 
-3. **[English Janala](https://github.com/Purab2001/English_Janala)** 📚  
+4. **[English Janala](https://github.com/Purab2001/English_Janala)** 📚  
    A website for learning English, featuring interactive lessons and resources.
 
    - Built with **HTML**, **CSS**, **JavaScript**, and enhanced with **Firebase** for user data
    - Interactive learning features and responsive design
    - [Live Demo](https://purab2001.github.io/English_Janala)
-
+     
 ---
 
 ## 📊 GitHub Stats
