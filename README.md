@@ -24,41 +24,36 @@
 
 Here are some of the projects showcasing my MERN stack and frontend skills:
 
-1. **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡  
-   Fast blogging platform to create and share posts instantly.
+1. **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧  
+   Book trusted home repair pros easily, track jobs, and manage services—all in one modern platform!
+   - Built with JavaScript, React, Node.js, Express.js, and MongoDB
+   - Features job booking, service management, and real-time updates
+   - Modern, responsive UI and seamless user experience
+   - [Live Demo](https://repair-right-1a8c9.web.app)
 
+2. **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡  
+   Fast blogging platform to create and share posts instantly.
    - Built with JavaScript, CSS, and HTML
    - Lightning-fast publishing and beautiful, responsive UI
    - Simple post management and seamless user experience
    - [Live Demo](https://quick-blog-zeta-two.vercel.app)
 
-2. **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨  
+3. **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨  
    A platform to discover, share, and manage hobbies with a vibrant community.
-
    - Built with MERN stack and modern UI libraries
    - Features user profiles, hobby tracking, and interactive dashboards
    - Responsive across devices
    - [Live Demo](https://hobbyhub-19bff.web.app/)
 
-3. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
+4. **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥  
    A modern doctor appointment management system built with React and Tailwind CSS.
-
    - Built with **React**, **Tailwind CSS**, and **DaisyUI**
    - Features doctor profiles, appointment scheduling, and analytics dashboard
    - Responsive design with modern UI
    - [Live Demo](https://doc-flow.netlify.app/)
 
-4. **[Auction Gallery](https://github.com/Purab2001/Auction-Gallery)** 💸  
-   A full-stack auction house application with real-time bidding and user management.
-
-   - Built with **React**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**
-   - Features real-time bidding, user authentication, and favorites management
-   - Responsive design with modern UI
-   - [Live Demo](https://a-g-purab.netlify.app/)
-
 5. **[English Janala](https://github.com/Purab2001/English_Janala)** 📚  
    A website for learning English, featuring interactive lessons and resources.
-
    - Built with **HTML**, **CSS**, **JavaScript**, and enhanced with **Firebase** for user data
    - Interactive learning features and responsive design
    - [Live Demo](https://purab2001.github.io/English_Janala)
