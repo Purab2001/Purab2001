@@ -78,11 +78,3 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Purab2001&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purab2001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
-
----
-
-## 🌟 Let's Connect!
-
-- [LinkedIn](https://www.linkedin.com/in/abir-shahadat-purab-672bab343/)
-- [Facebook](https://www.facebook.com/abir.shahadat.1/)
-- [Email](mailto:a.s.purab0@gmail.com)
