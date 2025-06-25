@@ -1,9 +1,5 @@
 <img src="https://github.com/Purab2001/Purab2001/blob/main/Image.png" alt="Banner" width="100%" />
 
-# 👋 Hi, I'm **Abir Shahadat Purab**
-
----
-
 ## 💫 About Me
 
 - 🌱 Currently crafting full-stack web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
