@@ -1,8 +1,6 @@
-# 👋 Hi, I'm **Abir Shahadat Purab**
+<img src="https://github.com/Purab2001/Purab2001/blob/main/Image.png" alt="Banner" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A41D&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+Source+Enthusiast" alt="Typing SVG" />
-</p>
+# 👋 Hi, I'm **Abir Shahadat Purab**
 
 ---
 
