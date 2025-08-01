@@ -55,13 +55,14 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech & Links |
-| ------- | ----------- | ------------ |
-| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | Book trusted home repair pros easily, track jobs, and manage services—all in one modern platform! | JavaScript, React, Node.js, Express.js, MongoDB<br>[Live Demo](https://repair-right-1a8c9.web.app) |
-| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | Fast blogging platform to create and share posts instantly. | JavaScript, CSS, HTML<br>[Live Demo](https://quick-blog-zeta-two.vercel.app) |
-| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Discover, share, and manage hobbies with a vibrant community. | MERN stack, modern UI libraries<br>[Live Demo](https://hobbyhub-19bff.web.app/) |
-| **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥 | Doctor appointment management system with analytics dashboard. | React, Tailwind CSS, DaisyUI<br>[Live Demo](https://doc-flow.netlify.app/) |
-| **[English Janala](https://github.com/Purab2001/English_Janala)** 📚 | Interactive English learning platform with lessons and resources. | HTML, CSS, JavaScript, Firebase<br>[Live Demo](https://purab2001.github.io/English_Janala) |
+| Project | Description | Tech Stack & Live Demo |
+|--------|-------------|------------------------|
+| **[Paynode](https://github.com/Purab2001/Paynode)** 💼💰 | Modern Employee Management & Payroll Platform. | **React, Node.js, MongoDB, Stripe, Firebase Admin**<br>🔗 [Live Demo](https://paynode-2025.web.app) |
+| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **JavaScript, React, Node.js, Express.js, MongoDB**<br>🔗 [Live Demo](https://repair-right-1a8c9.web.app) |
+| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **JavaScript, HTML, CSS**<br>🔗 [Live Demo](https://quick-blog-zeta-two.vercel.app) |
+| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Connect with a vibrant community to discover, share, and manage hobbies. | **MERN Stack, Tailwind CSS**<br>🔗 [Live Demo](https://hobbyhub-19bff.web.app) |
+| **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥 | A doctor appointment management system with admin analytics dashboard. | **React, Tailwind CSS, DaisyUI**<br>🔗 [Live Demo](https://doc-flow.netlify.app) |
+
 
 ---
 
