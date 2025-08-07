@@ -2,10 +2,10 @@
 
 ## 💫 About Me
 
-- 🌱 Currently crafting full-stack web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js)
+- 🌱 Currently crafting full-stack web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and exploring **Next.js**
 - 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **Express.js**, or **Tailwind CSS**
 - 📫 Reach me at: [a.s.purab0@gmail.com](mailto:a.s.purab0@gmail.com)
-- ⚡ Fun fact: I love building seamless, responsive, and user-centric web apps from scratch!
+- ⚡ Fun fact: I love building seamless, responsive, and user-centric web apps from
 
 ---
 
