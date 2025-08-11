@@ -5,6 +5,7 @@
 - 🌱 Currently crafting full-stack web applications with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and exploring **Next.js**
 - 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, **Express.js**, or **Tailwind CSS**
 - 📫 Reach me at: [a.s.purab0@gmail.com](mailto:a.s.purab0@gmail.com)
+- 📞 Phone: 01626868986
 - ⚡ Fun fact: I love building seamless, responsive, and user-centric web apps from
 
 ---
@@ -57,12 +58,11 @@
 
 | Project | Description | Tech Stack & Live Demo |
 |--------|-------------|------------------------|
-| **[Paynode](https://github.com/Purab2001/Paynode_client)** 💼💰 | Modern Employee Management & Payroll Platform. | **React, Node.js, MongoDB, Stripe, Firebase Admin**<br>🔗 [Live Demo](https://paynode-2025.web.app) |
-| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **JavaScript, React, Node.js, Express.js, MongoDB**<br>🔗 [Live Demo](https://repair-right-1a8c9.web.app) |
-| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **JavaScript, HTML, CSS**<br>🔗 [Live Demo](https://quick-blog-zeta-two.vercel.app) |
-| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Connect with a vibrant community to discover, share, and manage hobbies. | **MERN Stack, Tailwind CSS**<br>🔗 [Live Demo](https://hobbyhub-19bff.web.app) |
-| **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥 | A doctor appointment management system with admin analytics dashboard. | **React, Tailwind CSS, DaisyUI**<br>🔗 [Live Demo](https://doc-flow.netlify.app) |
-
+| **[Paynode](https://github.com/Purab2001/Paynode_client)** 💼💰 | Modern Employee Management & Payroll Platform. | **React, Node.js, MongoDB, Stripe, Firebase Admin**<br>🔗 [Live Demo](htt[...]  
+| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **Java[...]  
+| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **JavaScript, HTML, CSS**<br>🔗 [Live Demo](https://qui[...]  
+| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Connect with a vibrant community to discover, share, and manage hobbies. | **MERN Stack, Tailwind CSS**<br>🔗 [Live Demo](https://h[...]  
+| **[DocFlow](https://github.com/Purab2001/DocFlow)** 🏥 | A doctor appointment management system with admin analytics dashboard. | **React, Tailwind CSS, DaisyUI**<br>🔗 [Live Demo](https://d[...]  
 
 ---
 
