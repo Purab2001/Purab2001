@@ -58,10 +58,10 @@
 
 | Project | Description | Tech Stack & Live Demo |
 |--------|-------------|------------------------|
-| **[Paynode](https://github.com/Purab2001/Paynode_client)** 💼💰 | Modern Employee Management & Payroll Platform. | **React, Node.js, MongoDB, Stripe, Firebase Admin**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://paynode-2025.web.app) |
-| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **Java[...] <br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://repair-right-1a8c9.web.app) |
-| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **JavaScript, HTML, CSS**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://quick-blog-zeta-two.vercel.app) |
-| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Connect with a vibrant community to discover, share, and manage hobbies. | **MERN Stack, Tailwind CSS**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://hobbyhub-19bff.web.app) |
+| **[Paynode](https://github.com/Purab2001/Paynode_client)** 💼💰 | Modern Employee Management & Payroll Platform. | **React.js, Node.js, MongoDB, Stripe, Firebase Admin**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://paynode-2025.web.app) |
+| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **React.js, Node.js, MongoDB, Express.js, Tailwind CSS**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://repair-right-1a8c9.web.app) |
+| **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **React.js, MongoDB, Gemini AI, Imagekit, Multer**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://quick-blog-zeta-two.vercel.app) |
+| **[HobbyHub](https://github.com/Purab2001/hobbyhub)** 🎨 | Connect with a vibrant community to discover, share, and manage hobbies. | **React.js, Tailwind CSS, Express.js, MongoDB, Firebase**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://hobbyhub-19bff.web.app) |
 
 
 ---
