@@ -59,8 +59,8 @@
 | Project | Description | Tech Stack & Live Demo |
 |--------|-------------|------------------------|
 | **[GoCart](https://github.com/Purab2001/GoCart)** 🛒💳 | Modern Multi-Vendor E-Commerce Platform with seamless shopping, selling, and marketplace management. | **Next.js, React, Tailwind CSS, Clerk, Prisma, PostgreSQL, Stripe**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://go-cart-theta.vercel.app) |
+| **[AscendAI](https://github.com/Purab2001/AscendAI)** 🤖✨ | AI-powered platform leveraging cutting-edge technology for intelligent solutions. | **React.js, Node.js, MongoDB, Express.js, Tailwind CSS**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://ascendai.vercel.app) |
 | **[Paynode](https://github.com/Purab2001/Paynode_client)** 💼💰 | Modern Employee Management & Payroll Platform. | **React.js, Node.js, MongoDB, Stripe, Firebase Admin**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://paynode-2025.web.app) |
-| **[RepairRight](https://github.com/Purab2001/Repair_Right)** 🏠🔧 | A home service platform to book trusted repair professionals, track jobs, and manage services—all in one place. | **React.js, Node.js, MongoDB, Express.js, Tailwind CSS**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://repair-right-1a8c9.web.app) |
 | **[QuickBlog](https://github.com/Purab2001/QuickBlog)** 📝⚡ | A lightweight blogging platform to create and share posts instantly. | **React.js, MongoDB, Gemini AI, Imagekit, Multer**<br>[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=flat-square)](https://quick-blog-zeta-two.vercel.app) |
 
 
