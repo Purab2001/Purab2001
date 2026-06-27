@@ -1,4 +1,4 @@
-<img src="https://github.com/Purab2001/Purab2001/blob/main/Image.png" alt="Banner" width="100%" />
+<img src="https://github.com/Purab2001/Purab2001/blob/main/banner.webp" alt="Banner" width="100%" />
 
 # Hi there, I'm Abir Shahadat Purab 👋
 
